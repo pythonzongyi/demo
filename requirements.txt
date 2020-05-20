@@ -17,7 +17,7 @@ greenlet==0.4.14
 guacamole==0.9.2
 gunicorn==19.9.0
 html5lib==0.999
-httplib2==0.9.1
+httplib2==0.18.0
 idna==2.0
 ipython==6.4.0
 ipython-genutils==0.2.0
